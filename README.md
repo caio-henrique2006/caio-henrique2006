@@ -9,7 +9,9 @@
 - Love [gaming](https://steamcommunity.com/profiles/76561199191603747/)
 
 <h2>Contact me</h2>
-[steam](https://github.com/caio-henrique2006/caio-henrique2006/assets/74103264/e5b883d4-cb99-4ddd-8d9d-54f7597e5912)
+<a href="https://steamcommunity.com/profiles/76561199191603747/"><img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Steam_icon_logo.svg" /></a>
+<a href="https://steamcommunity.com/profiles/76561199191603747/"><img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Steam_icon_logo.svg" /></a>
+<a href="https://steamcommunity.com/profiles/76561199191603747/"><img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Steam_icon_logo.svg" /></a>
 
 <h2>Skills</h2>
 
