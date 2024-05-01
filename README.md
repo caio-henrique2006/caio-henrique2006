@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-- Studying IT in high school at the [Federal Institute Of Bahia](https://portal.ifba.edu.br/)
+- Studying IT in high school at the [Instituto Federal da Bahia](https://portal.ifba.edu.br/)
 - Currently learning Next.js
 - Looking to collaborate in Open Source projects
 - Doing research on [Robotics](https://www.instagram.com/thearmengers?igsh=N3JwNGF2Z2FjcDFm)
