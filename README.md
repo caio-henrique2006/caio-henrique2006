@@ -13,6 +13,7 @@
 
 <a href="https://steamcommunity.com/profiles/76561199191603747/"><img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Steam_icon_logo.svg" /></a>
 <a href="https://www.instagram.com/caiohenrique1712?igsh=ODJwdzh6aGdsOWY="><img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Instagram_logo.svg" /></a>
+<p>Email: caio_henrique2006@outlook.com</p>
 
 <h2><img width="30px" src="Old nail.png" />Skills</h2>
 <div>
