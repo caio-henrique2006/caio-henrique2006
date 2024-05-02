@@ -1,6 +1,6 @@
-<h1 align="center">Hi, i'm Caio Henrique</h1>
+<h1 align="center"><img width="30px" src="Coiled nail.png" /> Hi, i'm Caio Henrique<img width="30px" src="Coiled nail.png" /></h1>
 
-<h2>About me</h2>
+<h2><img width="30px" src="Pure nail.png" />About me</h2>
 
 - Studying IT in high school at the [Instituto Federal da Bahia](https://portal.ifba.edu.br/)
 - Currently learning Next.js
@@ -9,11 +9,12 @@
 - Like [competitive programing](https://codeforces.com/profile/Cakios)
 - Love [gaming](https://steamcommunity.com/profiles/76561199191603747/)
 
-<h2>Contact me</h2>
+<h2><img width="30px" src="Nail.png" />Contact me</h2>
+
 <a href="https://steamcommunity.com/profiles/76561199191603747/"><img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Steam_icon_logo.svg" /></a>
 <a href="https://www.instagram.com/caiohenrique1712?igsh=ODJwdzh6aGdsOWY="><img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Instagram_logo.svg" /></a>
 
-<h2>Skills</h2>
+<h2><img width="30px" src="Old nail.png" />Skills</h2>
 <div>
 <img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/HTML5_Badge.svg" />
 <img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/CSS3_logo.svg" />
@@ -28,4 +29,7 @@
 <img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Logo_C_sharp.svg" />
 </div>
 
+<br>
+
 [![Caio Henrique Stats](https://github-readme-stats.vercel.app/api?username=caio-henrique2006&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Caio Henrique Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-henrique2006&theme=radical&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
