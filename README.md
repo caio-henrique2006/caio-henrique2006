@@ -3,7 +3,7 @@
 <h2><img width="30px" src="Pure nail.png" />About me</h2>
 
 - Studying IT in high school at the [Instituto Federal da Bahia](https://portal.ifba.edu.br/)
-- Currently learning Next.js
+- Currently learning Electron js
 - Looking to collaborate in Open Source projects
 - Doing research on [Robotics](https://www.instagram.com/thearmengers?igsh=N3JwNGF2Z2FjcDFm)
 - Like [competitive programing](https://codeforces.com/profile/Cakios)
@@ -16,8 +16,21 @@
 <p>Email: caio_henrique2006@outlook.com</p>
 
 <h2><img width="30px" src="Old nail.png" />Skills</h2>
+
+```json
+{
+  "Web Basics": "HTML, CSS, Javascript",
+  "Backend": "PHP, Node.js, Express.js",
+  "Frontend Framework": "Next.js",
+  "Database": "Mysql",
+  "Type safety": "Typescript",
+  "Game development": "Unity",
+  "Others": "Python, C#"
+  "isExploitingVercelServers": "true"
+}
+```
 <div>
-<img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/HTML5_Badge.svg" />
+<!-- <img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/HTML5_Badge.svg" />
 <img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/CSS3_logo.svg" />
 <img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Unofficial_JavaScript_logo_2.svg" />
 <img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Node.js_logo.svg" />
@@ -28,7 +41,7 @@
 <img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/unity-svgrepo-com.svg" />
 <img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Electron_Software_Framework_Logo.svg" />
 <img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Logo_C_sharp.svg" />
-<img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/php.svg" />
+<img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/php.svg" /> -->
 </div>
 
 <br>
