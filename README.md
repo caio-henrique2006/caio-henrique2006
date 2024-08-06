@@ -21,6 +21,7 @@
 {
   "Web Basics": "HTML, CSS, Javascript",
   "Backend": "PHP, Node.js, Express.js",
+  "Frontend lib": "React",
   "Frontend Framework": "Next.js",
   "Database": "Mysql",
   "Type safety": "Typescript",
