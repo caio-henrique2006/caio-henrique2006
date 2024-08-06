@@ -33,5 +33,5 @@
 
 <br>
 
-[![Caio Henrique Stats](https://github-readme-stats.vercel.app/api?username=caio-henrique2006&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Caio Henrique Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-henrique2006&theme=radical&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Caio Henrique Stats](https://github-readme-stats-tau-nine-61.vercel.app/api?username=caio-henrique2006&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Caio Henrique Top Lang](https://github-readme-stats-tau-nine-61.vercel.app/api/top-langs/?username=caio-henrique2006&theme=radical&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
