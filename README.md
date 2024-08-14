@@ -27,7 +27,7 @@
   "Type safety": "Typescript",
   "Game development": "Unity",
   "Others": "Python, C#"
-  "isExploitingVercelServers": "true"
+  "isOverUsingVercelServers": "true"
 }
 ```
 <div>
