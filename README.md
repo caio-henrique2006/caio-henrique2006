@@ -1,13 +1,11 @@
-<h1 align="center"><img width="30px" src="Coiled nail.png" /> Hi, i'm Caio Henrique<img width="30px" src="Coiled nail.png" /></h1>
+<h1 align="center"><img width="30px" src="Coiled nail.png" /> Opa, sou Caio Henrique <img width="30px" src="Coiled nail.png" /></h1>
 
-<h2><img width="30px" src="Pure nail.png" />About me</h2>
+<h2><img width="30px" src="Pure nail.png" />Sobre mim</h2>
 
-- Studying IT in high school at the [Instituto Federal da Bahia](https://portal.ifba.edu.br/)
-- Currently learning Electron js
-- Looking to collaborate in Open Source projects
-- Doing research on [Robotics](https://www.instagram.com/thearmengers?igsh=N3JwNGF2Z2FjcDFm)
-- Like [competitive programing](https://codeforces.com/profile/Cakios)
-- Love [gaming](https://steamcommunity.com/profiles/76561199191603747/)
+- Técnico em **informática** pelo Instituto Federal da Bahia (IFBA)
+- Estudante de **Engenharia de Computação** na Universidade de Campinas (UNICAMP)
+- Desenvolvedor Web e Backend com experiência na área
+- Pesquisador pela PIBIC em modelos de IA generativa LLM aplicada a educação.
 
 <h2><img width="30px" src="Nail.png" />Contact me</h2>
 
