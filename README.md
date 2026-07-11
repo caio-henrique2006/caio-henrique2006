@@ -1,33 +1,36 @@
-<h1 align="center"><img width="30px" src="Coiled nail.png" /> Opa, sou Caio Henrique <img width="30px" src="Coiled nail.png" /></h1>
+<h1 align="center"> Opa, sou Caio Henrique </h1>
 
-<h2><img width="30px" src="Pure nail.png" />Sobre mim</h2>
+<h2>Sobre mim</h2>
 
 - Técnico em **informática** pelo Instituto Federal da Bahia (IFBA)
 - Estudante de **Engenharia de Computação** na Universidade de Campinas (UNICAMP)
 - Desenvolvedor Web e Backend com experiência na área
 - Pesquisador pela PIBIC em modelos de IA generativa LLM aplicada a educação.
+  
+<b>Meu portifólio:</b> 
 
-<h2><img width="30px" src="Nail.png" />Contact me</h2>
+<h2>Contato</h2>
 
 <a href="https://steamcommunity.com/profiles/76561199191603747/"><img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Steam_icon_logo.svg" /></a>
 <a href="https://www.instagram.com/caiohenrique1712?igsh=ODJwdzh6aGdsOWY="><img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Instagram_logo.svg" /></a>
-<p>Email: caio_henrique2006@outlook.com</p>
+<p><span><b>Email:</b></span> caio_henrique2006@outlook.com</p>
 
-<h2><img width="30px" src="Old nail.png" />Skills</h2>
+<h2>Habilidades</h2>
 
 ```json
 {
-  "Web Basics": "HTML, CSS, Javascript",
-  "Backend": "PHP, Node.js, Express.js",
-  "Frontend lib": "React",
-  "Frontend Framework": "Next.js",
-  "Database": "Mysql",
-  "Type safety": "Typescript",
-  "Game development": "Unity",
-  "Others": "Python, C#"
-  "isOverUsingVercelServers": "true"
+  "Web Basics": ["HTML", "CSS", "Javascript"],
+  "Backend": ["PHP", "Node.js", "Express.js"],
+  "Frontend lib": ["React"],
+  "Frontend Framework": ["Next.js", "Vite.js"],
+  "Database": ["Mysql", "PostgreSQL"],
+  "Type safety": ["Typescript"],
+  "Game development": ["Unity", "Godot"],
+  "Others": ["Python", "C#"]
+  "isOverUsingVercelServers": true
 }
 ```
+
 <div>
 <!-- <img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/HTML5_Badge.svg" />
 <img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/CSS3_logo.svg" />
