@@ -16,6 +16,7 @@
 
 <a href="https://steamcommunity.com/profiles/76561199191603747/"><img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Steam_icon_logo.svg" /></a>
 <a href="https://www.instagram.com/caiohenrique1712?igsh=ODJwdzh6aGdsOWY="><img width="60px" src="https://raw.githubusercontent.com/caio-henrique2006/caio-henrique2006/main/Instagram_logo.svg" /></a>
+<a href="www.linkedin.com/in/caio-henrique-b8a813347"><img src="https://github.com/caio-henrique2006/Portifolio/blob/3a48c3aac39712b8ebaaaff1f8652e0532841e95/Fotos/linkedIn_PNG32.webp" width="60px"></a>
 <p><span><b>Email:</b></span> caio_henrique2006@outlook.com</p>
 
 <h2>Habilidades</h2>
