@@ -5,12 +5,12 @@
 - Técnico em **informática** pelo Instituto Federal da Bahia (IFBA)
 - Estudante de **Engenharia de Computação** na Universidade de Campinas (UNICAMP)
 - Desenvolvedor Web e Backend com experiência na área
-- Pesquisador pela PIBIC em modelos de IA generativa LLM aplicada a educação (lattes.cnpq.br/1929488472635808)
+- Pesquisador pela PIBIC em modelos de IA generativa LLM aplicada a educação (https://www.lattes.cnpq.br/1929488472635808)
 - Medalhista de Olimpíadas de Conhecimento em Matemática, Astronomia, Informática e Robótica
 - Membro do Time de Robótica The Armengers do IFBA campus Seabra
 - Semifinalista do Desafio de Empreendedorismo Liga Jovem com o dispositivo Arm-Alpha (https://www.instagram.com/p/DSQrUrVASGQ)
 
-**Projetos:** 
+**Curriculo:** https://github.com/caio-henrique2006/Portifolio/blob/ddf76f7c225547fdc6b10a8c92207a913732df9d/Curriculo.pdf
 
 <h2>Contato</h2>
 
